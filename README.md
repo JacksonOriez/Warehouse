@@ -1,1 +1,2 @@
 # Warehouse
+This project is one that I worked on for my Object-Oriented Programming class (CS 180 - Purdue University). Warehouse is an abstraction of an Amazon Warehouse. The warehouse stores packages and keeps track of its vehicles information and is able to send vehicles out on delivery. The project utilizes file input to start the program with an up and running warehouse. However, if no files are in the directory it is looking in, it is up to the user to manually input all vehicles, packages, and whether or not it is Prime Day.
